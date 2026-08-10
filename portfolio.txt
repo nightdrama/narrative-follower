@@ -1,6 +1,142 @@
-WDC | Western Digital
-MU | Micron Technology
-COHR | Coherent
-LITE | Lumentum
-GLW | Corning
-PLTR | Palantir
+# narrative_follower portfolio  — sourced from TradingView "AI Supply Chain" watchlist
+# US-listed common stocks only. Foreign local listings (SSE/SZSE/TSE/KRX/TWSE/XETR/HKEX),
+# OTC pink-sheet ADRs, ETFs/index funds, and duplicate share classes removed.
+# Format: TICKER | Company   (blank lines and #-comments ignored). Section headers are comments.
+
+# --- MEMORY & STORAGE ---
+WDC   | Western Digital
+MU    | Micron Technology
+SKHY  | SK hynix (ADR)
+SNDK  | Sandisk
+STX   | Seagate Technology
+SIMO  | Silicon Motion
+RMBS  | Rambus
+
+# --- CPU ---
+INTC  | Intel
+ARM   | Arm Holdings
+AMD   | Advanced Micro Devices
+QCOM  | Qualcomm
+DELL  | Dell Technologies
+HPE   | Hewlett Packard Enterprise
+
+# --- CHIPS & COMPUTE ---
+CBRS  | Cerebras Systems
+AVGO  | Broadcom
+MRVL  | Marvell Technology
+NVDA  | NVIDIA
+TSM   | Taiwan Semiconductor (ADR)
+GFS   | GlobalFoundries
+
+# --- POWER SEMI ---
+LFUS  | Littelfuse
+TXN   | Texas Instruments
+FLEX  | Flex
+VSH   | Vishay Intertechnology
+NXPI  | NXP Semiconductors
+NVTS  | Navitas Semiconductor
+STM   | STMicroelectronics
+ON    | ON Semiconductor
+WOLF  | Wolfspeed
+MPWR  | Monolithic Power Systems
+
+# --- OPTICS & NETWORKING ---
+SITM  | SiTime
+CSCO  | Cisco Systems
+KEYS  | Keysight Technologies
+TSEM  | Tower Semiconductor
+AXTI  | AXT
+AAOI  | Applied Optoelectronics
+COHR  | Coherent
+LITE  | Lumentum
+FN    | Fabrinet
+GLW   | Corning
+NOK   | Nokia (ADR)
+CIEN  | Ciena
+ALAB  | Astera Labs
+ANET  | Arista Networks
+APH   | Amphenol
+TEL   | TE Connectivity
+CLS   | Celestica
+CRDO  | Credo Technology
+MTSI  | MACOM Technology
+TER   | Teradyne
+
+# --- SEMI CAP ---
+CAMT  | Camtek
+ONTO  | Onto Innovation
+ASML  | ASML Holding (ADR)
+ENTG  | Entegris
+AMAT  | Applied Materials
+KLAC  | KLA
+LRCX  | Lam Research
+
+# --- POWER & NUCLEAR & SOLAR ---
+FSLR  | First Solar
+FCEL  | FuelCell Energy
+BE    | Bloom Energy
+NXT   | Nextracker
+ENPH  | Enphase Energy
+VST   | Vistra
+CCJ   | Cameco
+CEG   | Constellation Energy
+LEU   | Centrus Energy
+NNE   | Nano Nuclear Energy
+NRG   | NRG Energy
+OKLO  | Oklo
+PLUG  | Plug Power
+SMR   | NuScale Power
+SOLS  | Solaris Energy Infrastructure
+TLN   | Talen Energy
+
+# --- INDUSTRIALS ---
+ATI   | ATI Inc
+GEV   | GE Vernova
+HWM   | Howmet Aerospace
+
+# --- DC INFRASTRUCTURE ---
+STRL  | Sterling Infrastructure
+FIX   | Comfort Systems USA
+IESC  | IES Holdings
+LGN   | Logan Ridge / (verify)
+EME   | EMCOR Group
+POWL  | Powell Industries
+MTZ   | MasTec
+PWR   | Quanta Services
+ETN   | Eaton
+ENS   | EnerSys
+VRT   | Vertiv
+
+# --- ELECTRONICS ---
+MKSI  | MKS Instruments
+ELTK  | Eltek
+JBL   | Jabil
+TTMI  | TTM Technologies
+
+# --- NEOCLOUD ---
+CORZ  | Core Scientific
+CRWV  | CoreWeave
+GLXY  | Galaxy Digital
+IREN  | IREN
+NBIS  | Nebius Group
+ORCL  | Oracle
+
+# --- INFRA SOFTWARE ---
+MDB   | MongoDB
+DDOG  | Datadog
+SNOW  | Snowflake
+AKAM  | Akamai
+FSLY  | Fastly
+DOCN  | DigitalOcean
+NET   | Cloudflare
+CRCL  | Circle Internet Group
+
+# --- OTHERS (mega-cap / platforms) ---
+AAPL  | Apple
+GOOGL | Alphabet
+AMZN  | Amazon
+META  | Meta Platforms
+NFLX  | Netflix
+PLTR  | Palantir
+TSLA  | Tesla
+MSFT  | Microsoft
