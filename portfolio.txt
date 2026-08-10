@@ -1,0 +1,6 @@
+WDC | Western Digital
+MU | Micron Technology
+COHR | Coherent
+LITE | Lumentum
+GLW | Corning
+PLTR | Palantir
