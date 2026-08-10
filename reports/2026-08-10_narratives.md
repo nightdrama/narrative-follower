@@ -1,134 +1,143 @@
 # Portfolio Narrative Brief — 2026-08-10
 
-_Source: X (formerly Twitter) via xAI live search (Agent Tools `x_search`), last 2 days (since 2026-08-08). Not investment advice._
+_Source: X (formerly Twitter) via xAI live search (`x_search` tool), last 2 days (since 2026-08-08). Not investment advice._
 
 ## Top debates
 
 ### 1. Memory supercycle or memory peak?
-**Names in play:** MU, SKHY (SK Hynix), SNDK, STX, WDC; spillover to SEMI CAP equipment names (AMAT, LRCX, KLAC, ASML)
+**Names in play:** MU, SKHY, SNDK, WDC, STX (SIMO, RMBS barely mentioned); spillover into SEMI CAP (AMAT, LRCX, ASML)
 
 **Bull side:**
-- Supply constraints confirmed by every major CEO/hyperscaler into 2027-2028+; long-term agreements with price floors and $800B 2026 / >$1T 2027 hyperscaler capex underpin demand (@JonahLupton).
-- The recent 30-50% drawdown is framed as mechanical (Korean leveraged-ETF redemptions, margin calls) rather than fundamental — pricing has only *decelerated* from 40-60% QoQ gains to 15-20% QoQ, still at record levels.
-- Valuations look cheap even for a "bust" scenario: MU/SKHY trading at 3-5x forward earnings; SKHY alone projected ~$670B net income over 3 years per sell-side.
+- Recent 30–57% drawdowns (MU, WDC/SNDK, SKHY) are framed as mechanical — margin calls, Korea/Japan ETF liquidations — not fundamental; DRAM/HBM/NAND supply reportedly sold out through 2027+ per hyperscaler and memory CEOs (@JonahLupton, 329 likes/76k views).
+- Pricing still rising (NAND spot +5–10% in a week); hyperscaler capex ($800B 2026 → $1T+ 2027) and multi-year LTAs with price floors underpin demand into 2028+.
+- Even a 40% earnings drop would still leave names cheap at 3–5x forward EPS; SK Hynix alone projected ~$670B cumulative net income 2026–28 with large buyback/dividend plans.
 
 **Bear side:**
-- Consensus forming that DRAM/HBM prices peak within 1-2 quarters as new capacity (including China's CXMT) comes online; low P/Es are read as the market correctly pricing "over-earning" before supply catches up (@stevehou, @tmt_fund1).
-- Nvidia reportedly "nerfing" Rubin Ultra HBM allocation in favor of optics-based rack/cluster efficiency — a direct demand-reduction risk for memory (this is also the seed of Theme #2 below).
-- CXMT bear/bull split itself is contested: some frame Chinese supply as a flooding risk, others note CXMT is actually sold out and pricing at parity/premium to MU/SKHY/Samsung — weakening the "cheap flood" case but not resolving it.
+- Memory is a procyclical commodity business; 10–20x gains already price in the demand story, and single-digit P/Es reflect the market correctly discounting "over-earning" before new supply (CXMT and others) arrives (@stevehou, 419 likes/107k views).
+- Heavy retail/analyst attention on "cheap" memory stocks is itself a contrarian red flag — crowded trades tend to become funding shorts once the AI narrative wobbles.
+- Technical bears flag further consolidation/200-day-MA retests across the whole group even if the fundamental thesis is intact short-term.
 
-**The crux:** whether this is a structural, multi-year AI-driven supply/demand imbalance ("this time is different") or a classic commodity memory cycle now rolling over from an already-extreme run.
+**The crux:** whether this is a structural, multi-year AI-driven supply/demand imbalance ("this time is different") or a classic commodity memory cycle rolling over after an extreme run.
 
-**Chatter:** Elevated — the single highest-volume theme in the sweep (one thread cited at 100k+ views, another referenced at 3M+ views); concentrated in MU/SKHY/SNDK, with STX/WDC as adjacent HDD reads.
+**Chatter:** Elevated — clearly the loudest single theme in the sweep (multiple 100k+ view posts); concentrated in MU/SNDK/SKHY, with WDC/STX as secondary reads.
 
 ---
 
-### 2. The optics rotation: is capital leaving memory for photonics?
-**Names in play:** LITE, COHR, AAOI, AXTI, GLW, ALAB, CRDO, CIEN (bull side); MU, SKHY (source of the rotation)
+### 2. AI capex: monetized cash machine or margin-eating black hole?
+**Names in play:** MSFT, AMZN (bull-favored) vs. GOOGL, META (bear-favored); spillover to AAPL/broader S&P concentration risk
 
 **Bull side:**
-- Nvidia's shift toward optics for Rubin Ultra scale-up/scale-out is read as a durable, multi-year tailwind for photonics — lasers reportedly sold out 2+ years, InP substrate/transceiver bottlenecks worsening (@PhotonCap).
-- A draft US restriction on Chinese optical-transceiver imports adds a domestic-supply-shift catalyst layered on top of the AI demand story.
-- Same posters calling the memory pullback (e.g., @jukan05) are simultaneously framing optics as the next rotation destination — this is an explicit, visible capital-rotation narrative, not two isolated theses.
+- MSFT: Azure reaccelerated with RPO +84% YoY to $678B, and management still guides to positive FCF in FY27 despite capex roughly doubling to $35.8B.
+- AMZN: AWS grew +37% YoY, its fastest pace in 18 quarters, offered as proof the ~$98B YTD capex build is already cash-flow positive.
+- Bulls argue the market is now discriminating between "monetized capex" (MSFT/AMZN) and undisciplined spend, rewarding the former.
 
 **Bear side:**
-- The rotation itself may be narrative-chasing: some read it as attention/momentum moving to optics only because memory names got "cleared out," not because photonics fundamentals independently improved.
-- CPO/NPO (co-packaged/near-packaged optics) ramps are still viewed by some as years away despite the AI framing.
-- Crowd positioning is already very bullish into the Aug 11-12 LITE/COHR earnings prints — a miss or cautious guide risks a sharp reversal, a pattern this group has shown before.
+- GOOGL: FCF turned negative post-earnings, punished despite topline strength, as AI capex outpaces monetization.
+- META: capex trajectory pointed toward $130B+, with one session showing a 91% FCF drop despite resilient ad pricing — cited as the clearest evidence of margin compression risk.
+- Bears see multi-year margin pressure ahead across the group before AI features/products actually pay for themselves.
 
-**The crux:** does Nvidia's optics-over-HBM design shift represent a genuine reallocation of AI infrastructure spend away from memory, or is the "rotation" mostly a sentiment/momentum story riding two separate earnings calendars (memory just reported/pulled back, optics reports next)?
+**The crux:** does incremental AI capex convert to visible revenue/FCF within a few quarters (MSFT/AMZN's story) or does it structurally compress margins for years (GOOGL/META's current print)?
 
-**Chatter:** Elevated — threads reaching 5k-30k+ views; AAOI valuation math (bull: 5x+ upside on realistic ramp math; bear: haircut scenarios still only modest upside) is the most detailed single-name sub-debate (@MMMTwealth, ~16k views).
-
----
-
-### 3. China cuts both ways: flood risk in memory vs. tailwind in optics
-**Names in play:** MU, SKHY, SNDK (bear-side China risk); COHR, LITE, AAOI, GLW (bull-side China policy tailwind)
-
-**Bull side (optics):** a proposed US ban on Chinese optical-transceiver imports is treated as a direct, positive policy catalyst for domestic photonics suppliers, contributing to the COHR/LITE/GLW/AAOI rally referenced in Theme #2.
-
-**Bear side (memory):** CXMT's capacity ramp is framed as a flooding risk that could pressure DRAM/NAND pricing and margins for the "Big 3" (Micron/SK Hynix/Samsung) — though this is itself contested, since CXMT product is reportedly sold out and priced at/above incumbent levels.
-
-**The crux:** China is simultaneously priced as a competitive threat (memory) and a protectionist tailwind (optics) within the same portfolio — the same geopolitical lever is pulling opposite directions depending on sub-sector, and neither read has fully resolved on X yet.
-
-**Chatter:** Moderate — embedded within Themes #1 and #2 rather than a standalone thread, but recurring across both.
+**Chatter:** Moderate-to-high (dozens of posts, several 1k–7k+ views), concentrated around this week's hyperscaler earnings prints; PLTR's post-earnings pop is a smaller, largely bear-free adjacent story in the same "AI leadership" bucket.
 
 ---
 
-### 4. AI capex: monetization proof vs. margin-compression/bubble fear
-**Names in play:** AMZN, MSFT (bull-side proof points); GOOGL, META (bear-side concern); NBIS, CRWV, IREN (neocloud version of the same debate); AMAT (equipment-demand version)
+### 3. Is the semi/AI selloff overdone, or just digesting before the next leg?
+**Names in play:** NVDA, AVGO, MRVL, TSM, CBRS, AMD, INTC
 
 **Bull side:**
-- AWS +37% YoY (fastest in 18 quarters), $200.6B Q2 revenue at 20% growth; Azure reacceleration plus Copilot/AI workload RPO growth of 84% to $678B — cited as direct evidence that capex is converting into monetized cloud revenue (@belbeleggers, @singapore282828).
-- AMAT bulls cite record sales, 25-year-high margins, 2026 equipment growth guidance raised to >30%, and two-year rolling customer forecasts into 2027-28 as visibility that AI infrastructure spend is still early, not late (@AlphastealthT).
-- Neocloud bulls (NBIS) point to $7-9B ARR, 40-45% EBITDA margins, and hyperscaler contracts as evidence the capex is pre-sold, not speculative.
+- A Cantor note argues the ~30% SOX peak-to-trough drawdown (32% in SMID SPE, 27% memory, 25% analog) is excessive versus the S&P's -3%, with SOX already rebounding +12% on the week; AI infrastructure demand is "durable and elongated."
+- TSM's July revenue of ~$14.4B (+45% YoY, above the prior ~37% guide) is cited as hard evidence the capex/demand story is real, not just sentiment.
+- AVGO and NVDA are flagged with fresh daily breakouts and strong relative strength, positioning them as leaders once memory-constraint fears (priced through 2028–2030) ease.
 
 **Bear side:**
-- GOOGL (-20% drawdown cited) and META (FCF hit from a $130B+ capex trajectory) are pointed to as cases where spend is outpacing visible AI revenue — "show me the cash flow now" rather than future promises.
-- Neocloud bears (echoing a Michael Burry-style short on NBIS at $211.77) argue the capital-intensive model — CAPEX, depreciation, financing costs — structurally outpaces demand growth, turning GPUs/power/data centers into a treadmill.
-- AMAT bears counter with a supply-chain-ceiling argument: equipment makers can't manufacture fast enough even to meet current demand, plus export-restriction/geopolitical risk.
+- Chart-focused skeptics see the complex as entering sideways chop/digestion rather than a durable breakout — AMD and MRVL are called out as the most weekly-extended names now pulling back on the daily.
+- NVDA's upcoming earnings (~18 days out per posters) is repeatedly cited as the actual verdict-day catalyst, implying current strength is provisional.
+- INTC's China server-CPU share (~70%) is offered as a structural positive but sits alongside dilution concerns from a new common-share offering.
 
-**The crux:** whether current hyperscaler and neocloud capex is being converted into visible, monetized revenue growth fast enough to justify the spend, or whether depreciation and financing costs will catch up before demand does.
+**The crux:** whether the post-drawdown bounce is the start of a real re-rating on confirmed AI demand (TSM revenue, capex guides) or a technical relief rally that stalls pending NVDA's next print.
 
-**Chatter:** Moderate — dozens of posts, top engagement 2-7k views on the Big Tech capex thread; this is the broadest cross-sectional theme even though no single thread went viral.
-
----
-
-### 5. Custom silicon vs. merchant GPU: AVGO's ASIC moat vs. NVDA's platform dominance
-**Names in play:** AVGO, MRVL, NVDA
-
-**Bull side (AVGO):** a 5-year Google TPU deal (SerDes/switching/packaging) with volumes ramping toward 18M+ units by 2028, ~70% gross margins vs. MediaTek's 20-40%, and a pipeline reportedly broadening to Anthropic/Meta/OpenAI/Apple; trades at a 20x/14x FY27/28 EPS discount to AMD/Marvell/MediaTek (33-36x) per a cited Mizuho note ($530 PT, $700 bull case) (@stockedgeN).
-
-**Bull side (NVDA):** Q2 numbers ($46.7B revenue +56% YoY, Data Center $41.1B, >70% gross margins) are cited as proof the CUDA-centric platform still converts AI infra spend into profit at scale that no ASIC vendor can match yet (@Shonye___).
-
-**Bear/counter side:** thinner — mostly technical (resistance levels into AVGO's Sept 2 earnings) rather than fundamental; the closest to a bear thesis is a minority view that inference workloads shifting to custom silicon could gradually erode NVDA's CUDA moat.
-
-**The crux:** as AI compute scales, does the market reward AVGO's sticky hyperscaler ASIC relationships and margin ceiling, or does NVDA's platform breadth keep capturing the larger share of incremental AI capex?
-
-**Chatter:** Low-moderate — detailed but low-engagement posts (single-digit to low-hundreds likes); one 12k-view outlier on AVGO, one 35k-view outlier on NVDA.
+**Chatter:** Low-to-moderate — no viral flame wars, but a widely-shared Cantor note anchors the debate; engagement is modest (dozens of likes, thousands of views) versus memory's much louder fight.
 
 ---
 
-### 6. AI power build-out: structural nuclear/uranium demand vs. stretched valuations
-**Names in play:** OKLO, SMR, CEG, VST, CCJ, LEU
+### 4. AI power infrastructure: near-unanimous bull consensus vs. quiet execution/regulatory risk
+**Names in play:** OKLO, SMR, NNE, CCJ, CEG, TLN (nuclear); GLXY, CORZ, IREN (neocloud power-moat plays)
 
-**Bull side:** AI hyperscalers need firm, 24/7 carbon-free power that (bulls argue) only nuclear delivers at scale; imminent PPAs, uranium contracting, and guidance updates are framed as re-rating catalysts, with CEG/VST offering a contracted-cash-flow floor under the higher-beta OKLO/SMR/LEU names. One uranium-equity scenario chart cited base-case +440% / bull-case +980% over 5 years for CCJ (@SloCan68).
+**Bull side:**
+- Nuclear names are repeatedly framed as "must-own" for the next leg of the AI trade — CEG/SMR/CCJ/NNE/OKLO cited as core holdings on structural hyperscaler power demand; Canaccord reiterated Buy on OKLO (PT trimmed to $100 from $125).
+- Former crypto miners GLXY, CORZ, and IREN are pitched as power-moat plays: years of cheap, already-secured power and land ahead of hundreds of GW of queued data-center demand (GLXY's Helios campus: 5.7 GW pipeline, 830 MW approved; CORZ's AMD deal: up to 2.5 GW, $14B+ contracted).
+- CCJ specifically called a "sleeping giant" on uranium supply tightness feeding the same nuclear buildout thesis.
 
-**Bear side:** valuations are already "stretched" and speculative for OKLO/SMR with high execution risk; CCJ bears point to a 32-33x P/E and ~60x price-to-cash-flow as already pricing in much of the structural-deficit thesis, with receivables, project delays, and geopolitics as live risks (@ketanmba03).
+**Bear side:**
+- Almost no direct bear pushback surfaced in the nuclear names themselves — the one-sidedness is itself notable and worth flagging as a crowding risk.
+- Where skepticism exists, it's execution/regulatory, not demand: Texas ERCOT/grid-audit scrutiny is flagged as a risk to CORZ's Pecos/Hunt County buildout (56% of its AMD-contracted capacity), and IREN is called out for Nvidia-training-era lock-in that may not carry into inference, where CPUs could compete better.
 
-**The crux:** has the AI-power-demand thesis already been priced into nuclear/uranium equities, or is the structural supply deficit still under-recognized relative to how fast AI data-center power demand is growing?
+**The crux:** the bull case rests on secured power/land as a multi-year moat; the untested question is whether permitting, grid capacity, and inference-era architecture shifts erode that moat before it's monetized.
 
-**Chatter:** Low — fewer than ~20 relevant posts total across the whole POWER & NUCLEAR & SOLAR section; this is a real but thin debate, not a loud one. Solar (ENPH, FSLR, NXT) and fuel-cell names (PLUG, FCEL, BE) had essentially no visible X discussion in the window.
+**Chatter:** Moderate on the neocloud power-moat angle (CRWV/NBIS earnings week driving attention to GLXY/CORZ/IREN); low-but-persistent bullish drumbeat on nuclear with essentially no organized bear side.
 
 ---
 
-### 7. Neocloud financing model: pre-sold demand lock-in vs. flexible power optionality
-**Names in play:** NBIS, CRWV (pre-sold/contracted side); IREN (flexible-power side)
+### 5. Neocloud earnings week: CRWV vs. NBIS for GPU-cloud leadership
+**Names in play:** CRWV, NBIS (secondary: ORCL)
 
-**Bull side (locked-in demand):** NBIS/CRWV's early hyperscaler contracts and pre-build agreements (CRWV's ~$100B backlog cited) are read as de-risking revenue visibility ahead of earnings.
+**Bull side (CRWV):**
+- Framed as the leader in GPU-as-a-Service, with the strongest hyperscaler pipeline: Abilene campus at 400 MW under construction plus 600 MW land-banked with power secured, and talk of a second anchor tenant not yet priced in ahead of Tuesday's print (~$2.55B revenue est., Adj. EPS –$1.23).
 
-**Bear side (locked-in demand):** pre-selling forfeits optionality — if pricing or demand patterns shift, these companies can't reprice capacity the way a flexible operator can; hyperscalers could later resell spare compute, compressing margins (@franklee6924T).
+**Bear side (pro-NBIS counter):**
+- Counter-posters argue CRWV's deals skew lower-value and that NBIS is scaling faster on inference/neocloud (>30% QoQ growth cited) without the same single-customer dependency; one post explicitly rebuts claims NBIS is capping hyperscaler deals.
+- ORCL sits in a smaller, related split: still-cheap-relative-to-growth bulls vs. neutrals who see it as merely rebounding from oversold with no fresh catalyst beyond its own earnings.
 
-**Counter-bull (flexible power):** IREN bulls argue the real bottleneck is energized/interconnected power, not GPUs, and that IREN's queue position lets it capture upside as pricing climbs — evidenced by $2.8B in new contracts signed without forfeiting flexibility (@spin1_xyz).
+**The crux:** whether CRWV's scale/pipeline lead or NBIS's faster growth and diversification wins the "best neocloud exposure" argument once both report this week.
 
-**The crux:** in a capital-intensive neocloud buildout, does locking in demand early (NBIS/CRWV) reduce risk more than it caps upside, or does staying flexible on power/compute allocation (IREN) capture more value as the market tightens?
+**Chatter:** The highest-volume theme within NEOCLOUD (15–20 relevant posts), driven directly by this week's earnings calendar (CRWV Tue, NBIS Wed).
 
-**Chatter:** Moderate-low — dozens of posts, concentrated in niche AI-infra accounts; top single post ~6.9k views (NBIS), no viral spikes. Earnings for NBIS and CRWV mid-week are the proximate catalyst driving the discussion.
+---
+
+### 6. Software's "data layer of AI": durable bull case vs. thin bear-signal chatter
+**Names in play:** SNOW, DDOG, MDB (primary); NET (valuation sub-debate); DOCN (minor)
+
+**Bull side:**
+- Positioned as capturing "the data underneath AI": SNOW Q2 product revenue $990M (+28% YoY) with expanding RPO; DDOG Q2 revenue $827M (+25% YoY) tied to AI-monitoring demand; MDB revenue ~$1.06B (>20% YoY) on accelerating Atlas adoption for real-time AI apps.
+- NET's rich multiple (~203x cited) is defended as justified by AI agents expanding the attack surface plus high-margin, mission-critical recurring revenue.
+
+**Bear side:**
+- Sparse and largely macro rather than company-specific: one post flags DDOG as a potential "harbinger" of broader bear-market pressure tied to seasonal weakness, not its own numbers.
+- A separate, thinner thread argues stretched sentiment and weak seasonality could produce a "false bull leg" across software broadly, with no direct rebuttal to the revenue-growth bull case.
+
+**The crux:** bulls have hard revenue numbers on their side; bears haven't yet produced a company-specific counter-argument, so this reads as an unresolved-by-default bull case rather than a genuine toe-to-toe debate.
+
+**Chatter:** Low overall (low dozens of posts, no post above ~30 likes), but the highest-substance sub-theme within INFRA SOFTWARE.
+
+---
+
+### 7. CAMT: aggressive guide vs. GAAP margin softness
+**Names in play:** CAMT (isolated — no cross-talk with ONTO/ENTG/ASML/AMAT/KLAC/LRCX in the same posts)
+
+**Bull side:**
+- Record Q2 revenue $133.2M (+8% YoY, beat), non-GAAP EPS $0.78 beat, ~27% non-GAAP operating margin, ~$600M YTD orders, H2 guide of >30% half-over-half growth, and Advanced Packaging revenue up ~45% HoH — read as multi-year AI-packaging visibility.
+
+**Bear side:**
+- GAAP operating and net income actually fell YoY with gross margin down 50–70bps, opex rising on growth investment; the case is that valuation leaves little room for a H2 ramp disappointment or order push-outs.
+
+**The crux:** whether non-GAAP order/AP momentum or GAAP margin deterioration is the better read on CAMT's near-term trajectory.
+
+**Chatter:** Low but concentrated — essentially the only substantive debate in the SEMI CAP section; ONTO, ENTG, KLAC saw zero notable discussion.
 
 ---
 
 ## Section pulse
-
-- **MEMORY & STORAGE:** Bearish near-term (post-drawdown), bullish long-term — loudest names MU/SKHY, dominating chatter volume portfolio-wide.
-- **CPU:** Mostly quiet, technical-only chatter with a bullish lean; no real fundamental bull/bear debate surfaced. Loudest: QCOM (options flow).
-- **CHIPS & COMPUTE:** Bullish-leaning, cautious pre-earnings; loudest: NVDA and AVGO (custom-silicon debate, Theme #5).
-- **POWER SEMI:** Essentially no X discussion — only isolated bullish options-flow chatter on NVTS; WOLF, TXN, NXPI, STM, ON, MPWR, LFUS, FLEX, VSH saw zero relevant posts.
-- **OPTICS & NETWORKING:** Bullish/constructive, rotation-driven (Theme #2); loudest: LITE/COHR into Aug 11-12 earnings, plus a detailed AAOI valuation debate.
-- **SEMI CAP:** Mixed, earnings-focused; loudest: AMAT ahead of its Aug 13 print (Theme #4).
-- **POWER & NUCLEAR & SOLAR:** Thin but bull-leaning on the AI-power narrative; loudest: OKLO/CCJ. Solar and fuel-cell names saw essentially no discussion.
-- **INDUSTRIALS:** No meaningful X discussion for ATI, GEV, or HWM.
-- **DC INFRASTRUCTURE:** No meaningful X discussion across STRL, FIX, IESC, LGN, EME, POWL, MTZ, PWR, ETN, ENS, VRT.
-- **ELECTRONICS:** Essentially no discussion; MKSI got a few analyst-target-raise mentions with no debate.
-- **NEOCLOUD:** Mixed — bull (AI cloud growth) vs. bear (Burry-style CAPEX/margin-compression short); loudest: NBIS, ahead of earnings (Theme #7).
-- **INFRA SOFTWARE:** Very thin; loudest: DDOG (earnings setup plus a minor insider-selling flag), SNOW getting pre-earnings momentum chatter.
-- **OTHERS:** Bifurcated — bullish on AMZN/MSFT capex monetization, bearish reaction to GOOGL/META capex (Theme #4); TSLA saw sparse, mostly bullish momentum chatter; AAPL, NFLX, PLTR saw little standalone debate.
+- **MEMORY & STORAGE:** Loudest section in the sweep, genuinely split — elevated chatter on MU/SNDK/SKHY "supercycle vs. peak."
+- **CPU:** Quiet, mildly bullish tilt (INTC China CPU share, AMD swept into a broader semi-bull note); ARM/QCOM/DELL/HPE essentially undiscussed.
+- **CHIPS & COMPUTE:** Bullish-leaning, moderate substance (Cantor "overdone selloff" note, TSM's +45% YoY revenue print); NVDA earnings in ~18 days flagged as the next verdict.
+- **POWER SEMI:** Almost no discussion — isolated one-sided notes only (STM bearish on guidance, NXPI/NVTS mildly bullish technicals); LFUS/TXN/FLEX/VSH/ON/MPWR/WOLF saw zero substantive mentions.
+- **OPTICS & NETWORKING:** Almost no discussion — scattered single-name notes (LITE pre-earnings bull call, SITM technical reversal, NOK chart levels); 15 of 20 tickers (incl. ALAB, ANET, COHR peers) had zero mentions.
+- **SEMI CAP:** Quiet outside CAMT's earnings debate (Theme 7); ASML/AMAT/KLAC/LRCX/ONTO/ENTG got only passing "AI picks-and-shovels" mentions with no pushback.
+- **POWER & NUCLEAR & SOLAR:** One-sided bullish (see Theme 4) — nuclear names dominate; FSLR/ENPH/PLUG/FCEL/BE saw minimal volume.
+- **INDUSTRIALS:** No meaningful discussion at all — ATI, GEV, HWM essentially flew under the radar.
+- **DC INFRASTRUCTURE:** Zero discussion found for any of STRL, FIX, IESC, LGN, EME, POWL, MTZ, PWR, ETN, ENS, VRT.
+- **ELECTRONICS:** Minimal but mildly bullish — MKSI got three analyst target hikes (Citi/JPM/Wells Fargo) on Aug 9; JBL/ELTK essentially undiscussed.
+- **NEOCLOUD:** Bullish and the most substantive section outside memory — CRWV vs. NBIS earnings-week leadership fight (Theme 5) plus the Texas power-moat debate (Theme 4).
+- **INFRA SOFTWARE:** Constructive lean, thin bear side — SNOW/DDOG/MDB "data layer of AI" bull case (Theme 6) dominates; AKAM/FSLY/DOCN/CRCL essentially undiscussed.
+- **OTHERS:** Bullish/mixed with real substance — MSFT/AMZN vs. GOOGL/META capex-monetization split (Theme 2) is the loudest story; PLTR's earnings pop is a secondary, largely uncontested bull thread; TSLA/NFLX/AAPL saw minimal dedicated debate.
